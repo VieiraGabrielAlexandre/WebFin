@@ -10,10 +10,26 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::any('/any',function(){
+    return 'any';
+});
+
+Route::match(['get','post'],'/match',function (){
+    return 'testando match';
+});
 
 Route::get('/', function () {
     return view('welcome');
+})->name('BemVindo');
+
+Route::get ('/empresa',function(){
+    return view('empresa');
 });
+
+Route::get('/inicial', function () {
+    return redirect()->route('BemVindo');
+});
+
 
 Auth::routes();
 

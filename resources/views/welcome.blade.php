@@ -81,16 +81,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    WebFin
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="/empresa">Empresa</a>
+                    <a href="https://laracasts.com">Gerar Saldo</a>
+                    <a href="https://laravel-news.com">Vendas</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
+                    <a href="/lista">Lista de Clientes</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
