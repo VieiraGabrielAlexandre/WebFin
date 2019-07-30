@@ -87,7 +87,7 @@
                 <div class="links">
                     <a href="/empresa">Empresa</a>
                     <a href="https://laracasts.com">Gerar Saldo</a>
-                    <a href="https://laravel-news.com">Vendas</a>
+                    <a href="/vendas">Vendas</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="/lista">Lista de Clientes</a>
